@@ -267,4 +267,7 @@ See more: [https://shields.io/](https://shields.io/)
 
 :page_facing_up: [Oficial](https://daringfireball.net/projects/markdown/)
 
+📄: [Oficial](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#lists)
+
+
 
